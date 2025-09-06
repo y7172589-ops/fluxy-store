@@ -1,0 +1,23 @@
+Flask==3.0.3
+FlaREMOVEDSQLAlchemy==3.1.1
+FlaREMOVEDMigrate==4.0.5
+FlaREMOVEDWTF==1.2.1
+email-validator==2.1.1
+Werkzeug==3.0.3
+python-dotenv==1.0.1
+requests==2.32.3
+gunicorn==23.0.0
+
+# Banco de dados
+SQLAlchemy==2.0.36
+
+# Pagamentos (PagBank integração via requests)
+cryptography==43.0.1
+
+# Para imagens com OpenAI
+openai==1.44.0
+Pillow==10.4.0
+
+# Para ambiente dev
+black==24.8.0
+flake8==7.1.1
