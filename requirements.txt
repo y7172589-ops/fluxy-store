@@ -1,7 +1,7 @@
 Flask==3.0.3
-FlaREMOVEDSQLAlchemy==3.1.1
-FlaREMOVEDMigrate==4.0.5
-FlaREMOVEDWTF==1.2.1
+Flask-SQLAlchemy==3.1.1
+Flask-Migrate==4.0.5
+Flask-WTF==1.2.1
 email-validator==2.1.1
 Werkzeug==3.0.3
 python-dotenv==1.0.1
